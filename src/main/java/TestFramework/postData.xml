@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <location>
+        <lat>-38.383494</lat>
+        <lng>33.427362</lng>
+    </location>
+    <accuracy>50</accuracy>
+    <name>The Mens store</name>
+    <phone_number>(+91) 983 893 3937</phone_number>
+    <address>Anna Salai, Chennai</address>
+    <types>shoe park</types>
+    <types>kadai</types>
+    <website>http://google.com</website>
+    <language>tamil-IN</language>
+</root>
+
+<?xml version="1.0"?>
+<response>
+<status>OK</status>
+<place_id>dcff2268174645baaf0280b73fe7f1b6</place_id>
+<scope>APP</scope>
+<reference>c5973435bb7317d635c13037446f2d04c5973435bb7317d635c13037446f2d04</reference>
+<id>c5973435bb7317d635c13037446f2d04</id>
+</response>

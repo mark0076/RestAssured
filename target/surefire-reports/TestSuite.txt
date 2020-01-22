@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 7.789 s <<< FAILURE! - in TestSuite
+postDataXML(Basics4)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected content-type "XML" doesn't match actual content-type "application/json; charset=UTF-8".
+
+	at Basics4.postDataXML(Basics4.java:27)
+
+extractingNamesAPI(Basics5)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path results[0].name doesn't match.
+Expected: Sydney
+  Actual: null
+
+	at Basics5.extractingNamesAPI(Basics5.java:27)
+

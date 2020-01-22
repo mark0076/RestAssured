@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+        <suite name="Suite">
+    <test name="Test">
+    <classes>
+    <class name="GetPlace"/>
+    <class name="PostPlace"/>
+    <class name="DeletePlace"/>
+    <class name="PostDataXML"/>
+    <class name="ExtractingNamesAPI"/>
+    <class name="JiraApiCreateIssue"/>
+    <class name="JiraApiCreateComment"/>
+    <class name="JiraApiUpdateComment"/>
+</classes>
+</test>
+</suite>
